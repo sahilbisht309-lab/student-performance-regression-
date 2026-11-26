@@ -1,4 +1,4 @@
-# Student Performance Regression
+# Student Performance Regression [Open the live Student Grade Predictor](https://student-grade-predictor0.streamlit.app/)
 
 A beginner machine learning project that uses linear regression to predict students’ final math grades.
 
